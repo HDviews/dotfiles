@@ -1,0 +1,7 @@
+/*
+/*/
+!/nvim/
+!/kitty/
+!/neofetch/
+!*.md
+!.gitignore
